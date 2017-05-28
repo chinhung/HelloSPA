@@ -1,0 +1,10 @@
+{
+  "name": "HelloSPA",
+  "version": "1.0.0",
+  "description": "my first spa project",
+  "author": "chinhung",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
